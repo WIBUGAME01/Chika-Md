@@ -1,6 +1,6 @@
-/*
-› Create By @RIY
-› Base Ori @DikaArdnt
+.p/*
+› Create By @WB
+› Base Ori @WBGM
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
 */
