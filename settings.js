@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @WB
+› Base Ori @WBGM
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
@@ -22,26 +22,26 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6289525720818','6289525720818','6289525720818'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6289525720818'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6289525720818' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'WB' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'BOT-WV' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'WB' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = 'https://youtube.com/channel/UCeKjwO8iZ7vf3bsoMm9PrkA'
+global.ig = 'https://www.instagram.com/wb_create01?r=nametag'
+global.mygc = 'https://chat.whatsapp.com/Fe5RMAyvC8522hPgKZ2Vux'
+global.myweb = 'https://linktr.ee/bot_wb'
+global.email = 'botwbb@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '© WB-WV' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
@@ -52,7 +52,7 @@ global.sessionName = 'session'
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 50,
 }
 
 //—————「 Set Image 」—————//
